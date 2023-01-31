@@ -1,6 +1,6 @@
 ### Hey, I'm Alan ;)
 
-<img align='right' src="https://imgur.com/GqCAhzh" width="230">
+<img align='right' src="assets/Welcome.png" width="500">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -50,11 +50,11 @@
 
 <p align="center">
 
-<a href="https://portfolio-website-nine-tan.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://portfolio-website-nine-tan.vercel.app/"><img alt="Website" src="assets/Websiteimage.png"></a>
 
-<a href="https://www.linkedin.com/in/alan-trebugeais/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/alan-trebugeais/"><img alt="LinkedIn" src="assets/LinkedIn.png"></a>
 
-<a href="mailto:alan.trebugeais@epitech.eu"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:alan.trebugeais@epitech.eu"><img alt="Email" src="assets/Email.png"></a>
 
 </p>
 
