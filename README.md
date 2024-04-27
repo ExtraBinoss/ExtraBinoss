@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; C | Python
+- 💻 &nbsp; C | C++ | Python | Haskell
 
 - 🌐 &nbsp; HTML | CSS | Vue.js
 
