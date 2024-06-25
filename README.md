@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies, and developing.
 
-- 🎓 &nbsp; Studying at Epitech Montpellier, currently in first year.
+- 🎓 &nbsp; Studying at Epitech Montpellier, currently in second year.
 
 - 🌱 &nbsp; Learning about Rust programming language, and algorithms.
 
@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; C | C++ | Python | Haskell
 
-- 🌐 &nbsp; HTML | CSS | Vue.js
+- 🌐 &nbsp; HTML | CSS | Vue.js | Js
 
 <!--
 
