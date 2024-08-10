@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; C | C++ | Python | Haskell
+- 💻 &nbsp; C | C++ | GO | Python | Haskell | Assembly
 
-- 🌐 &nbsp; HTML | CSS | Vue.js | Js
+- 🌐 &nbsp; HTML | CSS | Vue.js | Js | Svelte
 
 <!--
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Rust | Ruby | Perl | Go
+- 🔧 &nbsp; Rust | Ruby | Perl
 
 <hr>
 
