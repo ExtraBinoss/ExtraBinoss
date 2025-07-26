@@ -5,7 +5,7 @@ I'm a passionate software developer, currently a fourth-year student at Epitech.
 - 🚀 4 years of hands-on coding experience, starting with C and evolving into C++, Python, and beyond.
 - 🎓 Studying at Epitech, where I built a strong foundation without relying on AI tools.
 - 🌐 I enjoy exploring new technologies, especially in web development (Three.js, React, Vue, TypeScript).
-- 🕹️ Fascinated by 3D, CyberSecurity, and simulation projects.
+- 🕹️ Fascinated by 3D, CyberSecurity, and developing software useful for people.
 - 🧠 Always learning and currently working on a node-based editor that lets you create visuals in 3D on the web, using Three.JS.
 
 ### Job researching
@@ -17,7 +17,7 @@ I am currently looking for a job, as an intern for two days of the week (Monday/
 - **Languages:** C, C++, C#, Python, JavaScript, TypeScript, Go, Haskell, Assembly
 - **Web:** HTML, CSS, React, Vue.js, Svelte, Three.js
 - **Tools:** Docker, Git, Markdown, VsCode, Vim
-- **To Learn Next:** Perl, WebGPU
+- **To learn next:** Perl, WebGPU
 
 ---
 
