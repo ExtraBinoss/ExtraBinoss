@@ -1,27 +1,20 @@
-## Hey, I'm Alan 👋
+## Alan 👋
 
-I'm a passionate software developer, currently a fourth-year student at Epitech. Based in Montpellier and currently in Brussels, I love building things that blend creativity and technology.
+Fourth-year developer at Epitech. Started deep in C and C++ (printf recreation, creating and resolving mazes, thread management, raytracer...), now exploring anything that scratches the creative itch, especially web tech.
 
-- 🚀 4 years of hands-on coding experience, starting with C and evolving into C++, Python, and beyond.
-- 🎓 Studying at Epitech, where I built a strong foundation without relying on AI tools.
-- 🌐 I enjoy exploring new technologies, especially in web development (Three.js, React, Vue, TypeScript).
-- 🕹️ Fascinated by 3D, CyberSecurity, and developing software useful for people.
-- 🧠 Always learning and currently working on a node-based editor that lets you create visuals in 3D on the web, using Three.JS.
+### What I Build
+- **Nodl** – The VJ software I'm obsessed with. Think TouchDesigner, but for the web. Node-based visual creation with Three.js under the hood.
+- Systems projects that push low-level boundaries
+- Open-source alternatives to expensive proprietary software
 
-### Job researching
+### Stack
+C, C++, C#, Python, JavaScript, TypeScript, Go, Haskell | React, Vue, Angular, Three.js | Docker, Git
 
-I am currently looking for a job, as an intern for two days of the week (Monday/Tuesdays) from September 2025 to June 2026.
+### Currently
+- 4th year at Epitech (Montpellier → Brussels)
+- Looking for internship: 2 days/week (Mon-Tue), Sept 2025 – June 2026
+- Deepening web dev by re-creating apps that can help small infrastructure to save on cost, all open-sourced, all self-hosted.
 
-### 🛠 Tech Stack
-
-- **Languages:** C, C++, C#, Python, JavaScript, TypeScript, Go, Haskell, Assembly
-- **Web:** HTML, CSS, React, Vue.js, Svelte, Three.js
-- **Tools:** Docker, Git, Markdown, VsCode, Vim
-- **To learn next:** Perl, WebGPU
-
----
-
-### 🤝 Connect with Me
-
+### Links
 - [LinkedIn](https://www.linkedin.com/in/alan-treb-91a6142b5/)
 - [Website](https://extrabinoss.github.io/)
