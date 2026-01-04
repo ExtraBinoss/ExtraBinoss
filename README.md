@@ -6,6 +6,7 @@ Fourth-year developer at Epitech. Started deep in C and C++ (printf recreation, 
 - **Nodl** – The VJ software I'm obsessed with. Think TouchDesigner, but for the web. Node-based visual creation with Three.js under the hood.
 - Systems projects that push low-level boundaries
 - Open-source alternatives to expensive proprietary software
+- VJ (Visual Jockey) Content and Tools, I like the demo-scene and using apps like Tixl to express my artsy side.
 
 ### Stack
 C, C++, C#, Python, JavaScript, TypeScript, Go, Haskell | React, Vue, Angular, Three.js | Docker, Git
