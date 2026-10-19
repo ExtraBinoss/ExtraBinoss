@@ -10,3 +10,5 @@ I build productivity and design tools.
 - [ResumI](https://resumi.plinka.eu) — Resume builder.
 - [Nodl](https://nodl.dev) — Node-based visual creation.
 - [ARGUI](https://extrabinoss.github.io/argui/) — Rust UI for native and web.
+
+**Contributions:** [TiXL](https://github.com/tixl3d/tixl) · [Vizia](https://github.com/vizia/vizia) · [Morphorm](https://github.com/vizia/morphorm) · [Recordly](https://github.com/webadderallorg/Recordly) · [CTFDeck](https://github.com/CTFDeck/ctfdeck-app).
