@@ -5,11 +5,14 @@ I build productivity and design tools.
 **[Follow @ExtraBinoss on X →](https://x.com/ExtraBinoss)** · [All my apps on Plinka →](https://plinka.eu)
 
 - <img src="https://plinka.eu/images/beam-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[Beam](https://beam.plinka.eu)<!-- stars:BeamRecorder/Beam -->&nbsp;⭐&nbsp;54<!-- /stars --> — Screen recording.
+- <img src="https://plinka.eu/images/argui-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[ARGUI](https://extrabinoss.github.io/argui/)<!-- stars:ExtraBinoss/argui -->&nbsp;⭐&nbsp;34<!-- /stars --> — Rust UI for native and web.
+- <img src="https://plinka.eu/images/nodl-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[Nodl](https://nodl.dev) — Node-based visual creation.
+- <img src="https://plinka.eu/images/resumi-icon.png" width="20" height="20" alt="" align="absmiddle">&nbsp;[ResumI](https://resumi.plinka.eu)<!-- stars:ExtraBinoss/ResumI --><!-- /stars --> — Resume builder.
+
+**Creative playgrounds**
+
 - <img src="https://plinka.eu/icons/maskot.svg" width="20" height="20" alt="" align="absmiddle">&nbsp;[Maskot](https://maskot.plinka.eu)<!-- stars:ExtraBinoss/Maskot --><!-- /stars --> — Animated SVG mascots.
 - <img src="https://plinka.eu/icons/glyphka.svg" width="20" height="20" alt="" align="absmiddle">&nbsp;[Glyphka](https://glyphka.plinka.eu)<!-- stars:ExtraBinoss/Glyphka --><!-- /stars --> — Lettering, symbols and 3D.
-- <img src="https://plinka.eu/images/resumi-icon.png" width="20" height="20" alt="" align="absmiddle">&nbsp;[ResumI](https://resumi.plinka.eu)<!-- stars:ExtraBinoss/ResumI --><!-- /stars --> — Resume builder.
-- <img src="https://plinka.eu/images/nodl-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[Nodl](https://nodl.dev) — Node-based visual creation.
-- <img src="https://plinka.eu/images/argui-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[ARGUI](https://extrabinoss.github.io/argui/)<!-- stars:ExtraBinoss/argui -->&nbsp;⭐&nbsp;34<!-- /stars --> — Rust UI for native and web.
 
 **Libraries:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20" alt="" align="absmiddle">&nbsp;[SlugTextSharp](https://github.com/ExtraBinoss/SlugTextSharp)<!-- stars:ExtraBinoss/SlugTextSharp -->&nbsp;⭐&nbsp;4<!-- /stars --> · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20" height="20" alt="" align="absmiddle">&nbsp;[MSDFGen-Sharp](https://github.com/ExtraBinoss/MSDFGen-Sharp)<!-- stars:ExtraBinoss/MSDFGen-Sharp -->&nbsp;⭐&nbsp;4<!-- /stars -->
 
