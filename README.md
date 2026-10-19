@@ -4,10 +4,10 @@ I build productivity and design tools.
 
 **[Follow @ExtraBinoss on X →](https://x.com/ExtraBinoss)** · [All my apps on Plinka →](https://plinka.eu)
 
-- <img src="https://plinka.eu/images/beam-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[Beam](https://beam.plinka.eu)<!-- stars:BeamRecorder/Beam -->&nbsp;⭐&nbsp;54<!-- /stars --> — Screen recording.
+- <img src="https://plinka.eu/images/beam-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[Beam](https://beam.plinka.eu)<!-- stars:BeamRecorder/Beam -->&nbsp;⭐&nbsp;54<!-- /stars --> — Beautiful screen recordings and screenshots.
 - <img src="https://plinka.eu/images/argui-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[ARGUI](https://extrabinoss.github.io/argui/)<!-- stars:ExtraBinoss/argui -->&nbsp;⭐&nbsp;34<!-- /stars --> — Rust UI for native and web.
 - <img src="https://plinka.eu/images/nodl-icon.webp" width="20" height="20" alt="" align="absmiddle">&nbsp;[Nodl](https://nodl.dev) — Node-based visual creation.
-- <img src="https://plinka.eu/images/resumi-icon.png" width="20" height="20" alt="" align="absmiddle">&nbsp;[ResumI](https://resumi.plinka.eu)<!-- stars:ExtraBinoss/ResumI --><!-- /stars --> — Resume builder.
+- <img src="https://plinka.eu/images/resumi-icon.png" width="20" height="20" alt="" align="absmiddle">&nbsp;[ResumI](https://resumi.plinka.eu)<!-- stars:ExtraBinoss/ResumI --><!-- /stars --> — AI-native resume builder.
 
 **Creative playgrounds**
 
